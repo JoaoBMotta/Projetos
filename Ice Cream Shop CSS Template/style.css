@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.texto1 {
+    color: crimson;
+    font-size: 4rem;
+}
+
+.texto2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+.img1 {
+    position: relative;
+    bottom: 65px;
+}
+
+.img2 {
+    position: relative;
+    bottom: 65px;
+}
+
+.img3 {
+    position: relative;
+    bottom: 65px;
+}
+
+.container img:hover {
+    transform: scale(1.1);
+}
+
+.container img {
+    transition: 300ms ease-in-out;
+}
+
+body {
+    background-image: url(Fundo.jpg);
+    background-position: center;
+    background-size: cover;
+}

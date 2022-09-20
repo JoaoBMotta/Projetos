@@ -1,0 +1,23 @@
+body {
+    background-image: url(pexels-jaroslav-nymburský-687811.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.textu h1 {
+    background-color: black;
+    color: #fff;
+    width: 42%;
+    padding: 20px;
+    position: relative;
+    top: 15rem;
+    font-size: 500%;
+}
+
+.cor {
+    color: white;
+    position: relative;
+    top: 27rem;
+    left: 30%;
+}

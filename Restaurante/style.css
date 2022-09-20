@@ -1,0 +1,18 @@
+.bg-image {
+    background-image: url(pexels-min-an-1482803.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+.center {
+    position: relative;
+    top: 6rem;
+}
+
+.textos {
+    width: 50%;
+    position: relative;
+    top: 200px;
+    left: 280px;
+}

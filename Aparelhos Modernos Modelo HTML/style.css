@@ -1,0 +1,50 @@
+.celular {
+    position: relative;
+    top: 4rem;
+}
+
+.texto1 {
+    padding: 20px;
+    position: relative;
+    top: 5rem;
+    font-family: cursive;
+}
+
+.notebook {
+    position: relative;
+    top: 8rem;
+}
+
+.texto2 {
+    padding: 25px;
+    left: 10%;
+    position: relative;
+    top: 7rem;
+    font-family: cursive;
+}
+
+.Relógio {
+    position: relative;
+    top: 8rem;
+}
+
+.texto3 {
+    padding: 30px;
+    left: 10%;
+    position: relative;
+    top: 7rem;
+    font-family: cursive;
+}
+
+.VR {
+    position: relative;
+    top: 7rem;
+}
+
+.texto4 {
+    padding: 30px;
+    left: 10%;
+    position: relative;
+    top: 7rem;
+    font-family: cursive;
+}

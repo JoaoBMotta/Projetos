@@ -1,0 +1,33 @@
+.sushi {
+    height: 300px;
+}
+
+.textu {
+    position: relative;
+    top: 2rem;
+}
+
+.textu h3 {
+    font-size: 130px;
+    font-family: cursive;
+}
+
+.line {
+    background-color: aliceblue;
+    height: 2px;
+    width: 30%;
+}
+
+.bg-red {
+    background-color: rgb(223, 43, 43);
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.sushi img {
+    width: 30%;
+    position: relative;
+    bottom: 65px;
+}
